@@ -1,3 +1,3 @@
 # Python
-Python projects
-Simple pythogn projects for fun 
+Python projects.
+Simple python projects for fun 
